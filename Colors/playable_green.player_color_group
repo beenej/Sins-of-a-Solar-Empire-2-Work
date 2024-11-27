@@ -1,6 +1,6 @@
 {
-    "user_interface_color": "#9aa600",
-    "main_view_planet_background_color": "#9aa600",
+    "user_interface_color": "#046b25",
+    "main_view_planet_background_color": "#046b25",
     "mesh_colors": [
     {
         "primary": "#60661f",
@@ -117,9 +117,9 @@
         "secondary_emissive": "#bacc58"
     },
     {
-        "primary": "#404312",
-        "secondary": "#9d7086",
-        "primary_emissive": "#bacc58",
-        "secondary_emissive": "#bacc58"
+        "primary": "#046b25",
+        "secondary": "#046b25",
+        "primary_emissive": "#046b25",
+        "secondary_emissive": "#046b25"
     }]
 }
