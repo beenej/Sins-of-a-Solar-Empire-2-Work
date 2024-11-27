@@ -57,10 +57,10 @@
         "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#635978",
-        "secondary": "#0a0700",
-        "primary_emissive": "#caaef8",
-        "secondary_emissive": "#caaef8"
+        "primary": "#ca6f1e",
+        "secondary": "#300141",
+        "primary_emissive": "#ca6f1e",
+        "secondary_emissive": "#300141"
     },
     {
         "primary": "#423952",
@@ -111,9 +111,9 @@
         "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#423952",
+        "primary": "#300141",
         "secondary": "#b73635",
-        "primary_emissive": "#caaef8",
+        "primary_emissive": "#300141",
         "secondary_emissive": "#caaef8"
     },
     {
