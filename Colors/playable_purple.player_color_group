@@ -57,10 +57,10 @@
         "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#ca6f1e",
-        "secondary": "#300141",
-        "primary_emissive": "#ca6f1e",
-        "secondary_emissive": "#300141"
+        "primary": "#FF6600",
+        "secondary": "#0066CC",
+        "primary_emissive": "#FF6600",
+        "secondary_emissive": "#0066CC"
     },
     {
         "primary": "#423952",
