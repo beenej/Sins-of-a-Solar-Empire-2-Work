@@ -111,14 +111,14 @@
         "secondary_emissive": "#ffd34e"
     },
     {
-        "primary": "#a56f00",
-        "secondary": "#593c49",
+        "primary": "#4800ff",
+        "secondary": "#fcb300",
         "primary_emissive": "#ffd34e",
         "secondary_emissive": "#ffd34e"
     },
     {
-        "primary": "#a56f00",
-        "secondary": "#4d4855",
+        "primary": "#cc0000",
+        "secondary": "#fcb300",
         "primary_emissive": "#ffd34e",
         "secondary_emissive": "#ffd34e"
     }]
