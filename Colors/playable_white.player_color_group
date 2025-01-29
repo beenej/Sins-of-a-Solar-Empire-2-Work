@@ -64,10 +64,10 @@
         "secondary_emissive": "#4C9DDA"
     },
     {
-        "primary": "#cfc6be",
+        "primary": "#38595c",
         "secondary": "#000000",
         "primary_emissive": "#ffffff",
-        "secondary_emissive": "#ffffff"
+        "secondary_emissive": "#000000"
     },
     {
         "primary": "#cfc6be",
