@@ -52,16 +52,16 @@
         "secondary_emissive": "#ffffff"
     },
     {
-        "primary": "#ffffff",
-        "secondary": "#bdbdbd",
-        "primary_emissive": "#ffffff",
-        "secondary_emissive": "#ffffff"
+        "primary": "#FF6600",
+        "secondary": "#000080",
+        "primary_emissive": "#FF6600",
+        "secondary_emissive": "#000080"
     },
     {
-        "primary": "#ffffff",
-        "secondary": "#040305",
-        "primary_emissive": "#ffffff",
-        "secondary_emissive": "#ffffff"
+        "primary": "#FF6600",
+        "secondary": "#4C9DDA",
+        "primary_emissive": "#FF6600",
+        "secondary_emissive": "#4C9DDA"
     },
     {
         "primary": "#cfc6be",
@@ -112,15 +112,15 @@
         "secondary_emissive": "#ffffff"
     },
     {
-        "primary": "#cfc6be",
-        "secondary": "#423952",
-        "primary_emissive": "#ffffff",
-        "secondary_emissive": "#ffffff"
+        "primary": "#4800ff",
+        "secondary": "#b73635",
+        "primary_emissive": "#4800ff",
+        "secondary_emissive": "#b73635"
     },
     {
-        "primary": "#cfc6be",
-        "secondary": "#5a3247",
-        "primary_emissive": "#ffffff",
-        "secondary_emissive": "#ffffff"
+        "primary": "#4800ff",
+        "secondary": "#ca6f1e",
+        "primary_emissive": "#ca6f1e",
+        "secondary_emissive": "#4800ff"
     }]
 }
