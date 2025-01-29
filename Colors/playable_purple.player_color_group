@@ -3,10 +3,10 @@
     "main_view_planet_background_color": "#a96aff",
     "mesh_colors": [
     {
-        "primary": "#063509",
-        "secondary": "#ca6f1e",
-        "primary_emissive": "#063509",
-        "secondary_emissive": "#ca6f1e"
+        "primary": "#635978",
+        "secondary": "#ffffff",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
         "primary": "#635978",
@@ -51,16 +51,16 @@
         "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#FF6600",
-        "secondary": "#000080",
-        "primary_emissive": "#FF6600",
-        "secondary_emissive": "#000080"
+        "primary": "#635978",
+        "secondary": "#423a51",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#FF6600",
-        "secondary": "#4C9DDA",
-        "primary_emissive": "#FF6600",
-        "secondary_emissive": "#4C9DDA"
+        "primary": "#635978",
+        "secondary": "#0a0700",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
         "primary": "#423952",
@@ -99,27 +99,27 @@
         "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#4800ff",
-        "secondary": "#a56f00",
-        "primary_emissive": "#a56f00",
-        "secondary_emissive": "#4800ff"
+        "primary": "#423952",
+        "secondary": "#e3a000",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#FF6600",
-        "secondary": "#4800ff",
-        "primary_emissive": "#4800ff",
-        "secondary_emissive": "#FF6600"
+        "primary": "#423952",
+        "secondary": "#bd6625",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#4800ff",
+        "primary": "#423952",
         "secondary": "#b73635",
-        "primary_emissive": "#4800ff",
-        "secondary_emissive": "#b73635"
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     },
     {
-        "primary": "#4800ff",
-        "secondary": "#ca6f1e",
-        "primary_emissive": "#ca6f1e",
-        "secondary_emissive": "#4800ff"
+        "primary": "#423952",
+        "secondary": "#89536d",
+        "primary_emissive": "#caaef8",
+        "secondary_emissive": "#caaef8"
     }]
 }
